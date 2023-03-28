@@ -1,0 +1,2 @@
+# NftStorageTest
+Testing decentralized storaged
